@@ -99,6 +99,14 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
       <p>Mi primer programa en C++: calcula áreas de figuras (triángulo, cuadrado, rectángulo y círculo) por consola.</p>
       <p><a href="https://github.com/cuutii/Cal.Tri">📦 Código</a></p>
     </td>
+    <td width="50%">
+      <h3>🧊 Perito Map</h3>
+      <p>Mapa interactivo de los glaciares del Calafate: fotos reales, clima en vivo y funciona sin internet. Hecho para el celular.</p>
+      <p>
+        <a href="https://cuutii.github.io/perito-map/">🌐 Ver online</a> ·
+        <a href="https://github.com/cuutii/perito-map">📦 Código</a>
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -116,7 +124,6 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
 
 Proyectos en los que estoy trabajando ahora mismo. ¡Aún no están terminados, pero avanzan!
 
-- 🗺️ **Perito Map** — App de mapas de los glaciares del Calafate: con tu ubicación vas armando un recorrido con miniaturas e info de cada glaciar. *Fase: desarrollo.*
 - ✨ **Próximamente** — Nuevos proyectos que estoy arrancando en parte. Se suman acá cuando estén listos.
 
 > Si querés ver el avance de alguno, entrá a mis repos públicos: [github.com/cuutii](https://github.com/cuutii)
