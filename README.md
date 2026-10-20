@@ -1,4 +1,4 @@
-<!--
+﻿<!--
   ============================================================
   README DE PERFIL DE GITHUB  (usuario: cuutii)
   ============================================================
@@ -49,16 +49,6 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
       </p>
     </td>
     <td width="50%">
-      <h3>🧊 Perito Map</h3>
-      <p>Mapa interactivo de los glaciares de El Calafate: ubicá tu posición y armá tu recorrido.</p>
-      <p>
-        <a href="https://cuutii.github.io/perito-map/">🌐 Ver online</a> ·
-        <a href="https://github.com/cuutii/perito-map">📦 Código</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3>🧳 Explore Calafate</h3>
       <p>Asesoría gratuita para turistas que visitan El Calafate y la Patagonia.</p>
       <p>
@@ -66,6 +56,8 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
         <a href="https://github.com/cuutii/Explore-Calafate">📦 Código</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>💼 Portfolio</h3>
       <p>Mi portfolio personal con proyectos y datos de contacto. Hecho a mano con HTML y CSS.</p>
@@ -74,8 +66,6 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
         <a href="https://github.com/cuutii/Portfolio-Maximo">📦 Código</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>📶 Portal Wifi</h3>
       <p>Plantilla de portal de acceso wifi (bienvenida al cliente) para negocios.</p>
@@ -84,6 +74,8 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
         <a href="https://github.com/cuutii/portal-wifi">📦 Código</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🏢 Fernanda</h3>
       <p>Landing page de servicios de consultoría en Recursos Humanos.</p>
@@ -92,13 +84,6 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
         <a href="https://github.com/cuutii/Fernanda">📦 Código</a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📐 Cal.Tri</h3>
-      <p>Mi primer programa en C++: calcula funciones trigonométricas por consola.</p>
-      <p><a href="https://github.com/cuutii/Cal.Tri">📦 Código</a></p>
-    </td>
     <td width="50%">
       <h3>🗂️ Progresivo</h3>
       <p>Ejercicio de aprendizaje: maqueta web en 2 etapas (HTML solo y HTML + CSS).</p>
@@ -106,6 +91,13 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
         <a href="https://cuutii.github.io/Progresivo/">🌐 Ver online</a> ·
         <a href="https://github.com/cuutii/Progresivo">📦 Código</a>
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📐 Cal.Tri</h3>
+      <p>Mi primer programa en C++: calcula áreas de figuras (triángulo, cuadrado, rectángulo y círculo) por consola.</p>
+      <p><a href="https://github.com/cuutii/Cal.Tri">📦 Código</a></p>
     </td>
   </tr>
 </table>
@@ -120,13 +112,25 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
 
 ---
 
+## 🚧 En construcción
+
+Proyectos en los que estoy trabajando ahora mismo. ¡Aún no están terminados, pero avanzan!
+
+- 🗺️ **Perito Map** — App de mapas de los glaciares del Calafate: con tu ubicación vas armando un recorrido con miniaturas e info de cada glaciar. *Fase: desarrollo.*
+- ✨ **Próximamente** — Nuevos proyectos que estoy arrancando en parte. Se suman acá cuando estén listos.
+
+> Si querés ver el avance de alguno, entrá a mis repos públicos: [github.com/cuutii](https://github.com/cuutii)
+
+---
+
 ## 📫 Contacto
 
 Me gustaría conectar. Escribime por cualquiera de estos medios:
 
-- **LinkedIn:** [Maximo Sanabria](https://www.linkedin.com/in/maximo-sanabria-858970b6/)
+- **LinkedIn:** [Maximo Sanabria](https://www.linkedin.com/in/maximo-sanabria-cutib/)
 - **GitHub:** [@cuutii](https://github.com/cuutii)
 
 ---
 
 <p align="center"><i>Gracias por pasar. ¡Saludos! 🇦🇷</i></p>
+
