@@ -67,11 +67,11 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
       </p>
     </td>
     <td width="50%">
-      <h3>📶 Portal Wifi</h3>
-      <p>Plantilla de portal de acceso wifi (bienvenida al cliente) para negocios.</p>
+      <h3>🧊 Perito Map</h3>
+      <p>Mapa interactivo de los glaciares del Calafate: fotos reales, clima en vivo y funciona sin internet. Hecho para el celular.</p>
       <p>
-        <a href="https://cuutii.github.io/portal-wifi/">🌐 Ver online</a> ·
-        <a href="https://github.com/cuutii/portal-wifi">📦 Código</a>
+        <a href="https://cuutii.github.io/perito-map/">🌐 Ver online</a> ·
+        <a href="https://github.com/cuutii/perito-map">📦 Código</a>
       </p>
     </td>
   </tr>
@@ -94,18 +94,10 @@ Ahora mismo me estoy enfocando en **desarrollo web** (HTML, CSS y JavaScript) y 
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td colspan="2">
       <h3>📐 Cal.Tri</h3>
       <p>Mi primer programa en C++: calcula áreas de figuras (triángulo, cuadrado, rectángulo y círculo) por consola.</p>
       <p><a href="https://github.com/cuutii/Cal.Tri">📦 Código</a></p>
-    </td>
-    <td width="50%">
-      <h3>🧊 Perito Map</h3>
-      <p>Mapa interactivo de los glaciares del Calafate: fotos reales, clima en vivo y funciona sin internet. Hecho para el celular.</p>
-      <p>
-        <a href="https://cuutii.github.io/perito-map/">🌐 Ver online</a> ·
-        <a href="https://github.com/cuutii/perito-map">📦 Código</a>
-      </p>
     </td>
   </tr>
 </table>
